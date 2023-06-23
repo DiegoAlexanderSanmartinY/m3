@@ -1,0 +1,14 @@
+.nav {
+   /* background-image: url('C:\Users\dasan\Desktop\rick_and_morty\src\resources\bannerSearch.jpg'); */
+   background-image: url(./resources/bannerSearch.jpg);
+   padding: 1em;
+   display: flex;
+   flex-direction: row;
+   justify-content: end;
+   margin-top: 1em;
+   margin-bottom: 1em;
+   margin-left: 2em;
+   margin-right: 2em;
+   align-items: start;
+   border-radius: 15px;
+}
